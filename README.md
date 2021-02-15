@@ -12,4 +12,6 @@
 | UVA | [Shahjalalshohag](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_authorstats&userid=888069) | 19 |
 | HackerEarth | [shahjalalshohag](https://www.hackerearth.com/@shahjalalshohag) | 10 |
 | HackerRank | [shahjalalshohag1](https://www.hackerrank.com/shahjalalshohag1) | 10 |
-| Total | | 0 |
+| Total | | 3254 |
+
+Last Updated: 15 Feb, 2021
