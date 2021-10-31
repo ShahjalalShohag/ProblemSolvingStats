@@ -3,7 +3,7 @@
 
 | OJ | Username | Solve Count |
 | -- | -------- | ----------- |
-| Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 2181 |
+| Codeforces | [YouKn0wWho](https://codeforces.com/profile/YouKn0wWho) | 2433 |
 | CodeChef | [sjshohag](https://www.codechef.com/users/sjshohag) | 278 |
 | AtCoder | [YouKn0wWho](https://atcoder.jp/users/YouKn0wWho) | 213 |
 | SPOJ | [sjshohag](https://www.spoj.com/users/sjshohag/) | 168 | 
@@ -16,6 +16,6 @@
 | Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
 | CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
 | TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 22 |
-| Total | | 4021 |
+| Total | | 4273 |
 
-Last Updated: 19 Feb, 2021
+Last Updated: 31 Oct, 2021
