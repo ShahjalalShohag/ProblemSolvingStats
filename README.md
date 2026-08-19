@@ -16,7 +16,7 @@
 | Kattis | [shahjalal-shohag](https://open.kattis.com/users/shahjalal-shohag) | 9 |
 | CS Academy | [YouKnowWho](https://csacademy.com/user/YouKnowWho) | 14 |
 | TOKI | [YouKnowWho](https://tlx.toki.id/profiles/YouKnowWho) | 36 |
-| Leetcode | [YouKn0wWho]([https://tlx.toki.id/profiles/YouKnowWho](https://leetcode.com/u/YouKn0wWho/)) | 95 |
+| Leetcode | [YouKn0wWho](https://leetcode.com/u/YouKn0wWho/) | 95 |
 | Total | | 6536 |
 
 Last Updated: 19 August, 2026
